@@ -1,4 +1,4 @@
-# Installer Script to take a stock Centos 6.4 to a FreePBX Distro 4.211.64-1 release.
+# Installer Script to take a stock Centos 6.4 64bit to a FreePBX Distro 4.211.64-1 release.
 # Once completed you can use the upgrade scripts for version track 4.211.64
 # To keep your system updated.
 
